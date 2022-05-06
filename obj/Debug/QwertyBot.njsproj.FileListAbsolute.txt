@@ -1,0 +1,3 @@
+C:\Users\SteMavoid11257\Desktop\Qwerty\QwertyBot\obj\Debug\QwertyBot.njsproj.AssemblyReference.cache
+C:\Users\SteMavoid11257\Desktop\Qwerty\QwertyBot\obj\Debug\QwertyBot.njsproj.CoreCompileInputs.cache
+C:\Users\SteMavoid11257\Desktop\Qwerty\QwertyBot\bin\Microsoft.NodejsTools.WebRole.dll

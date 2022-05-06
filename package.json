@@ -1,0 +1,9 @@
+{
+  "name": "qwerty-bot",
+  "version": "0.0.0",
+  "description": "QwertyBot",
+  "main": "QwertyBot.js",
+  "author": {
+    "name": ""
+  }
+}
